@@ -1,0 +1,20 @@
+git init -->
+
+ls -a -> all things
+
+GitHub is just storage (like iCloud for documents) -- separate from git
+
+commit is basically saving a snapshot --> but only of things we tell git to track
+
+git add
+  stage files: changes that want to eventually commit (but haven't committed yet)
+
+if you don't commit yet, still added, even if change contents not "modified"
+
+put a message next to commit, to know what change--so include commit message in command (-m)
+
+git commit -am
+  -a adds (rather than doing git add in separate step)
+
+  - make commits early and often -- avoid committing super large files
+  - use git status frequently
