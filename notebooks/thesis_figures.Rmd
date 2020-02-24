@@ -1,0 +1,24 @@
+---
+title: "thesis_figures"
+author: "Nisreen Abo-Sido"
+date: "2/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Figure 1: Bokashi increases plant biomass
+
+## Figure 2: Bokashi increases chlorophyll concentrations
+
+## Figure 3: Bokashi ammonium concentrations
+
+## Figure 4: Bokashi phosphate concentrations
+
+## Figure 5: Positive correlation between bokashi ammonium concentrations and plant chlorophyll concentrations
+
+## Figure 6: Pcoa bacteria (16S)
+
+## Figure 7: Pcoa fungi (ITS)
